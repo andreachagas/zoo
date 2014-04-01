@@ -3,3 +3,5 @@ this is a lion.
 Lions live in Africa.
 They are always hundry and are carnivores.
 This is a new line from lions.
+
+This is a bug fix line.
